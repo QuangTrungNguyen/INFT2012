@@ -1,0 +1,24 @@
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\bin\Debug\NguyenQuangTrungAssgt.exe.config
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\bin\Debug\NguyenQuangTrungAssgt.exe
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\bin\Debug\NguyenQuangTrungAssgt.pdb
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.csprojResolveAssemblyReference.cache
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.Properties.Resources.resources
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.csproj.GenerateResource.Cache
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.exe
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.pdb
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.frmGoal.resources
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.frmMain.resources
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.frmSinglePlayer.resources
+C:\Users\QuangTrung\Desktop\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.frmTwoPlayers.resources
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\bin\Debug\NguyenQuangTrungAssgt.exe.config
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.exe
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.pdb
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\bin\Debug\NguyenQuangTrungAssgt.exe
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\bin\Debug\NguyenQuangTrungAssgt.pdb
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.csprojResolveAssemblyReference.cache
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.frmGoal.resources
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.frmMain.resources
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.frmTwoPlayers.resources
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.frmSinglePlayer.resources
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.Properties.Resources.resources
+C:\Users\QuangTrung\Desktop\SEMESTER 2\INFT2012 - Application Programming\Assignment\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\NguyenQuangTrungAssgt\obj\Debug\NguyenQuangTrungAssgt.csproj.GenerateResource.Cache
